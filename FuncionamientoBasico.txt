@@ -1,0 +1,11 @@
+1. Iniciar sesion
+2. Si inicia sesión elegir Starfleet o Imperio Klingon, si no inicia sesión Imperio Klingon
+3. Elegir 6 naves, cada una con 2 cañones diferentes.
+4. Nivel de dificultad (1,2,3)
+5. Elegir posiciones (x,y) de cada nave
+6. Jugador dispara, puede elegir disparo doble pero consume el doble de munición del arma.
+7. Cada arma tiene una municion fija, si estas registrado puedes comprar más municion con los puntos de partidas ganadas.
+8. Cada nave dispone de un escudo que le permite resistir una serie de impactos.
+9. Si la nave no sufre impactos en 10 turnos esta será reparada al 100%
+10. En cada turno un jugador dispara y el otro informa de los daños a su flota.
+11. El juego continua hasta que un jugador se queda sin flota o hasta que Starfleet se rinda
